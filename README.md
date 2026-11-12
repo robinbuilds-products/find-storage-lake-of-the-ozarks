@@ -83,7 +83,7 @@ Storage information at the lake is scattered. Owners and renters struggle to fin
 
 ## What I learned
 
-- **Bank vs. AI-native:** without enterprise review layers, I went from idea to live site in 15 days. Applying bank-grade standards solo took real effort, but it got done
+- Bank vs. AI-native: without enterprise review layers, I went from idea to live site in 15 days. Applying bank-grade standards solo took real effort, but it got done
 - Clear user requirements still matter, especially when building toward an outcome instead of a feature
 - Starting with the outcome kept me on track and helped me avoid scope creep from extra AI-suggested ideas
 - Solo or with a team, you still need a backlog
