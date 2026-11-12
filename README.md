@@ -22,10 +22,10 @@ After years building products inside a regulated global bank, I also wanted to t
 
 Storage information at the lake is scattered. Owners and renters struggle to find each other, and the right kind of storage.
 
-- National storage marketplaces exist, but none focus on this region: from Jefferson City over to Warsaw, down to Branson, Missouri, and every small town in between
-- The lake is a small year-round community that swells with millions of visitors each summer, and renters come from all over the Midwest
-- Many locals are older and less tech-focused, and many businesses still rely on phone calls to bring in customers
-- Storage owners need to reach 80–90% capacity year-round. Without steady renters, some can't stay in business and have to sell
+- **A geographic blind spot:** national storage marketplaces exist, but none focus on this region: from Jefferson City over to Warsaw, down to Branson, Missouri, and every small town in between
+- **Seasonal demand:** the lake is a small year-round community that swells with millions of visitors each summer, and renters come from all over the Midwest
+- **A less tech-focused audience:** many locals are older, and many businesses still rely on phone calls to bring in customers
+- **High stakes for small owners:** storage owners need to reach 80–90% capacity year-round. Without steady renters, some can't stay in business and have to sell
 
 ---
 
@@ -83,13 +83,13 @@ Storage information at the lake is scattered. Owners and renters struggle to fin
 
 ## What I learned
 
-- Bank vs. AI-native: without enterprise review layers, I went from idea to live site in 15 days. Applying bank-grade standards solo took real effort, but it got done
-- Clear user requirements still matter, especially when building toward an outcome instead of a feature
-- Starting with the outcome kept me on track and helped me avoid scope creep from extra AI-suggested ideas
-- Solo or with a team, you still need a backlog
-- Opening the site to AI agents felt risky, but it taught me how AI search works
-- It gave me room to explore AI-written content and building accessibility into the product
-- I can take a product from idea to live on my own
+- **Bank vs. AI-native:** without enterprise review layers, I went from idea to live site in 15 days. Applying bank-grade standards solo took real effort, but it got done
+- **Requirements still matter:** clear user requirements still matter, especially when building toward an outcome instead of a feature
+- **Outcomes beat features:** starting with the outcome kept me on track and helped me avoid scope creep from extra AI-suggested ideas
+- **Process still matters solo:** solo or with a team, you still need a backlog
+- **AI search:** opening the site to AI agents felt risky, but it taught me how AI search works
+- **Room to explore:** AI-written content and building accessibility into the product
+- **Idea to live, solo:** I can take a product from idea to live on my own
 
 ---
 
